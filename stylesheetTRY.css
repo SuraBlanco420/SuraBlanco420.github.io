@@ -1,0 +1,31 @@
+
+h1 {color: #4169e1;
+	margin: 0;
+}
+
+img {	margin: 0 auto;
+}
+a:hover {
+	    color: #00CCBB;
+}
+a {
+	    text-decoration: none;
+	    color: #00CCBB;
+}
+
+body { background: #00CCBB;
+	   display: block;
+       width: 600px;
+       margin: 0 auto;
+       text-align: center;
+
+ }
+
+ #picme {width: 250px;
+ 	border-radius: 50%;
+ }
+
+#content {background: white;
+	        margin: 0 auto;
+	        padding: 15px;    
+ }
