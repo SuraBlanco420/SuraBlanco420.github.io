@@ -13,6 +13,10 @@ a {
 	    color: #00CCBB;
 }
 
+ul {
+	float: left;
+}
+
 body { background: #00CCBB;
 	   display: block;
        width: 600px;
